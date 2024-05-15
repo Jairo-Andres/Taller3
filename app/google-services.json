@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "226686786075",
+    "firebase_url": "https://taller3-fire-default-rtdb.firebaseio.com",
+    "project_id": "taller3-fire",
+    "storage_bucket": "taller3-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226686786075:android:ef431c4a41bb36d9ecf6be",
+        "android_client_info": {
+          "package_name": "co.taller3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi_0ywOTdJPJuOw3iQlL_NsNElTTMPQGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226686786075:android:a12c6b45017a651eecf6be",
+        "android_client_info": {
+          "package_name": "com.example.taller3_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi_0ywOTdJPJuOw3iQlL_NsNElTTMPQGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

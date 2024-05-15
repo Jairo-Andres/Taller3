@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">taller3</string>
+    <string name="title_activity_mapas">MapasActivity</string>
+    <string name="title_activity_mapa_distancia_persona">MapaDistanciaPersonaActivity</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register_instead">Registrarse</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="select_image">Seleccionar imagen</string>
+    <string name="identification_number">Número de identificación</string>
+    <string name="latitude">Latitud</string>
+    <string name="longitude">Longitud</string>
+    <string name="register">Registrarse</string>
+</resources>
